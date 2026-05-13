@@ -8,5 +8,5 @@ Supporting the translation process
 (c) Plantaest
 
 License:
-* GNU Affero General Public License version 3 for Citron application
+* GNU Affero General Public License version 3 for Lexis application
 ```
